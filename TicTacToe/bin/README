@@ -1,0 +1,27 @@
+# Project 3: Library of Books
+
+
+* Author: Hesham Natouf
+* Class: CS 121-035
+* Semester: Summer 2020
+
+# Overview
+
+This java application display TicTacToe game between a player and computur using GUI
+
+## Compilling and Using
+
+To compile the java application, execute the following commond in the main project directory:
+```
+$  javac TicTacToe.java
+```
+Run the compile class with the command:
+```
+$ java TicTacToe
+```
+
+## Sources used
+
+ the sources that I used were,
+"Luke Bosse Lessons slides."
+"Luke Bosse P5 intro youtube video and other lessons videos."

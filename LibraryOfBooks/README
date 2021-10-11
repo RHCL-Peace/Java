@@ -1,0 +1,30 @@
+# Project 3: Library of Books
+
+
+* Author: Hesham Natouf
+* Class: CS 121-035
+* Semester: Summer 2020
+
+# Overview
+
+This java application display command promot that add book to the library, print a list of books from library, 
+delete a book from library and read the book that was stored in the library 
+
+## Compilling and Using
+
+To compile the java application, execute the following commond in the main project directory:
+```
+$  javac LibraryOfBooks.java
+```
+Run the compile class with the command:
+```
+$ java LibraryOfBooks
+```
+
+## Sources used
+
+ the sources that I used were,
+"Luke Bosse Lessons slides."
+"Luke Bosse P3 intro youtube video and other lessons videos."
+online source "https://stackoverflow.com/"
+

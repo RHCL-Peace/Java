@@ -1,0 +1,26 @@
+# Project 0: Traffic Animation
+
+* Author: Hesham Natouf
+* Class: CS 121-035
+* Semester: Summer 2020
+
+# Overview
+
+This java application display an animated car moving accress screen with some other features as an Avatar wathching the car moving 
+with some scenarios and tree next to him.
+
+## Compilling and Using
+
+To compile the java application, execute the following commond in the main project directory:
+```
+$  javac TrafficAnimation.java
+```
+Run the compile class with the command:
+```
+$ java TrafficAnimnation
+```
+
+## Sources used
+
+I was able to do this project all on my own, but I found some good answers for qustions I had on width and height in java application 
+on https://stackoverflow.com 

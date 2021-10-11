@@ -1,0 +1,31 @@
+# Project 2: Jukebox Hero
+
+* Author: Hesham Natouf
+* Class: CS 121-035
+* Semester: Summer 2020
+
+# Overview
+
+This java application display command promot that load a Song file, search inside the file, analyse the 
+file and print out what inside the file in formatted  order. 
+
+## Compilling and Using
+
+To compile the java application, execute the following commond in the main project directory:
+```
+$  javac JukeboxHero.java
+```
+Run the compile class with the command:
+```
+$ java JukeboxHero
+```
+
+## Sources used
+
+ I used few different sources that were really helpful,
+ first one was "Luke Bosse Lessons slides."
+ second was "Luke Bosse P2 intro youtube video and other lessons videos" to get started."
+ third was "Luke Bosse examples in posted in blackbored."
+
+ and finally the online source "https://stackoverflow.com/" for help in file parsing and exceptions, 
+ try statement and catch statement.

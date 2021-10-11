@@ -1,0 +1,26 @@
+# Project 1: Playlist Analyzer
+
+* Author: Hesham Natouf
+* Class: CS 121-035
+* Semester: Summer 2020
+
+# Overview
+
+This java application display an PlayList of three different songs and list them in a given format with 
+song title, song artist, song album and the play time of each song in second.
+
+## Compilling and Using
+
+To compile the java application, execute the following commond in the main project directory:
+```
+$  javac PlayList.java
+```
+Run the compile class with the command:
+```
+$ java Playlist
+```
+
+## Sources used
+
+ I only source I used was "Luke Bosse Lessons 7 Slides", they were a huge help for me on string representation and dicimal format.
+ I also used "Luke Bosse P1 intro youtube video" to get started.
