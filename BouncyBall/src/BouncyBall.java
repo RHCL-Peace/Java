@@ -14,7 +14,8 @@ import javax.swing.Timer;
  * Animated program with a ball bouncing off the program boundaries
  * @author CS121 Instructors
  * @author mvail
- * @author yourname
+ * @author Hesham Natouf
+
  */
 @SuppressWarnings("serial")
 public class BouncyBall extends JPanel
