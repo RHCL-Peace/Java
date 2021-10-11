@@ -1,3 +1,7 @@
+/**
+ * 
+ * @author Hesham Natouf
+ */
 
 public class Card implements Comparable<Card> {
 	private Suit suit;
