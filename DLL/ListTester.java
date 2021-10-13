@@ -12,6 +12,8 @@ import java.util.NoSuchElementException;
  * get you started.
  * 
  * @author mvail, mhthomas, amussell
+ *
+ * author: Hesham Natouf
  */
 @SuppressWarnings("deprecated")
 public class ListTester {
