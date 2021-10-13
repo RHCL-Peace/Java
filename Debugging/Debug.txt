@@ -1,0 +1,23 @@
+Debugging
+Name:Hesham Natouf
+Class: CS221-001
+
+Bug #1: 
+	- Failed test: testISEmpty
+	- Breakpoint in line 38
+	- Bug was found in line 39
+	- set the value of rear equal zero so it return true
+
+Bug #2 
+
+	- Failed test: testAdd
+	- Breakpoint in line 53
+	- Bug was found on line 59
+	- add "rear++" to add another element.
+
+Bug #3 
+
+	- Failed test: testRemove
+	- Breakpoint in line 64
+	- Bug was found on line 86
+	- move "rear--" inside the while loop so it avoid the exception.

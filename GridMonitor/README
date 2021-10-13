@@ -1,0 +1,40 @@
+*****************
+* GridMonitor
+* Class: CS 221
+* sep/2020
+* Hesham Natouf
+*****************
+
+# Overview
+
+  Create a class that implements the method from GridMonitorInterface 
+  and write and test method to test the surrounding cells 
+  of the grid and know which one going explode
+
+# INCLUDED FILES:
+
+* GridMonitor.java
+* GridMonitorTest.java
+* GridMonitorInterface.java
+
+## Compilling and Using
+
+To compile the java application, execute the following commond in the main project directory:
+```
+$  javac GridMonitor.java
+```
+Run the compile class with the command:
+```
+$ java GridMonitor
+```
+## Testing:
+GridMonitorTest file was written and given to us
+	the testing file was use to test my method and check if 
+	they are working correctly
+	
+## DISCUSSION:
+ 
+the whole project was challenging and I didn't get it done all the way
+there few test file I wasn't able to pass 
+the method that toke me some time to figure out was "getSurroundingSumGrid" method.
+also, I had to look up and recover some in information on 2D Array
